@@ -1,0 +1,10 @@
+{
+    "manifest_version": 2,
+    "name": "Ejemplo extensión",
+    "description": "Ejemplo de extensión básica con Vue.js",
+    "version": "0.1",
+    "browser_action": {
+        "default_popup": "index.html",
+        "default_title": "Extensión con Vue.js"
+    }
+}
